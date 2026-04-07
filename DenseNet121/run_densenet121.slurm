@@ -62,7 +62,7 @@ nvidia-smi
 DATA_ROOT="/home/daggarwa/490_project/dhairya/endometriosis_cv"
 
 # Point to the NEW script
-SCRIPT_PATH="/scratch/st-ilker-1/dhairya/densenet121/train_densenet121_auc_5fold.py"
+SCRIPT_PATH="/scratch/st-ilker-1/dhairya/densenet121/train_densenet121_5fold.py"
 
 echo "RUN_DIR: $RUN_DIR"
 echo "OUT_DIR: $OUT_DIR"
