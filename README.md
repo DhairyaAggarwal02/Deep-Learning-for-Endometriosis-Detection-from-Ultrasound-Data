@@ -1,1 +1,1 @@
-# Deep-Learning-for-Endometriosis-Detection-from-Ultrasound-Data
+# Deep Learning for Endometriosis Detection from Ultrasound Data
